@@ -1,0 +1,28 @@
+نصب کلاستر کوبرنتیز با معماری HA
+  // نصب 3 master
+  // 2 LB
+  // 2 worker
+  2. اشنایی کامل با ماژول های شبکه کوبرنتیز
+    // calico
+    // weavnet v ...
+  3. اشنایی کامل با volume type
+    // ceph
+    // gluster
+    // nfs v ...
+    
+4. مدیریت دسترسی کاربران
+  // تفکیک namespace 
+  // Resource Quota
+  // LimitRange
+  
+5.micro service Observability
+  //monitoring
+   // Log management
+   // tracing
+   
+   مدیریت منابع محاسباتی پادها 6.  
+
+  // pod QoS Classes 
+  // Pod autoScaling
+
+7. Cluster federation
