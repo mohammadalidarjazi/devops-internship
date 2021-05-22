@@ -4,7 +4,7 @@
 
 <div dir="rtl" text-align='right'>
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase03.md)
+[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase02.md)
 
 ## آشنایی با object sotorage swift
     -    سرویس swift چیست؟ ورژن های مختلف آن.
