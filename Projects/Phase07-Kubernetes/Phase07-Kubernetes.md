@@ -20,8 +20,7 @@
     - kube-proxy
     - container-runtime
 1. نصب kubernetes
-    > :warning: با استفاده از kind یک کلاستر آن را ایجاد کنید
-
+    > :warning: نصب با استفاده از miniqkube
 # deploy کردن پروژه ی جنگو 
  
  
