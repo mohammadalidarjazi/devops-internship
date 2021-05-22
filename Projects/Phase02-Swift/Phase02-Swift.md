@@ -11,21 +11,29 @@
     -   معماری طراحی  swift به چه شکل است؟
     - سرویس keystone چیست؟
 
-1.مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
-    - Proxy Server
-    - Object Server
-    - Account
-    - Container
-    - Object
-    - Replicatioan & Rsync
-    - Ring
-    - Storage Policy
-    - Middleware & Pipeline
-    - TempAuth vs KeystoneAuth
-    - TempUrl
-    - Expirer
-    - SLO & DLO
-    - Recon
+ 1. مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
+    - رایانش ابری چیست (cloud computing) ؟
+    - مجازی ساز (hypervisor) چیست؟
+    - رایانش ابری چیست (cloud computing) ؟
+    - تفاوت رایانش ابری (cloud computing) و مجازی سازی (virtualization) چیست؟
+    -  شرکت هایی سرویس های رایانش ابری ارائه میدهند ؟ و چه سرویس هایی ارائه میدهند؟ (در مورد هرکدام کمی توضیح دهید.)
+    -  پروژه ی openstack 
+
+ 1.مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
+     - Proxy Server
+     - Object Server
+     - Account
+     - Container
+     - Object
+     - Replicatioan & Rsync
+     - Ring
+     - Storage Policy
+     - Middleware & Pipeline
+     - TempAuth vs KeystoneAuth
+     - TempUrl
+     - Expirer
+     - SLO & DLO
+     - Recon
  
 1. بریم swift نصب کنیم :wink:
     سیستم عامل شما ubuntu 18.04 
