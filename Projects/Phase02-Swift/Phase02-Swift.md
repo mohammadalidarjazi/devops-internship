@@ -13,19 +13,19 @@
 
 1.مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
     - Proxy Server
-<!-- - Object Server
-- Account
-- Container
-- Object
-- Replicatioan & Rsync
-- Ring
-- Storage Policy
-- Middleware & Pipeline
-- TempAuth vs KeystoneAuth
-- TempUrl
-- Expirer
-- SLO & DLO
-- Recon -->
+    - Object Server
+    - Account
+    - Container
+    - Object
+    - Replicatioan & Rsync
+    - Ring
+    - Storage Policy
+    - Middleware & Pipeline
+    - TempAuth vs KeystoneAuth
+    - TempUrl
+    - Expirer
+    - SLO & DLO
+    - Recon
  
 1. بریم swift نصب کنیم :wink:
     سیستم عامل شما ubuntu 18.04 
