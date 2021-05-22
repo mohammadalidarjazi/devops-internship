@@ -31,7 +31,8 @@
 
 1. بریم swift نصب کنیم :wink:
     سیستم عامل شما ubuntu 18.04 
-    > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)    
+    > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
+
     مشخصات نصب:  
     نصب پراکسی با tempauth
     نصب account Contaienr v Object server
