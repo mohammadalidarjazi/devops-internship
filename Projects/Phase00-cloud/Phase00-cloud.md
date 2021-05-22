@@ -3,51 +3,11 @@
 
 [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase00.md)
 
-##  آشنایی با زیرساخت‌های ابری 
+##  آشنایی با مفاهیم ابری 
  
-در این فاز سراغ لینوس 
- 
- # پروژه backend
- طراحی کامل بک اند مربوط به سیسیتم مشابه instagram
+// میکنیم و آن را به عنوان مخزن اطلاعات پروژهی جنگو استفاده خواهیم کرد. swift به نام openstack را بررسی میکنیم. پس از آن شروع به نصب و یادگیری یکی از سروِیسهای پروژههای openstack در این پروژه ابتدا به یادگیری مفاهیم رایانش ابری میپردازیم. پس از پروژهی
 
   # پروژه front end 
- 
- 2. HTML
-3. CSS
-4- بوت استرپ
- 13. SQL و پایگاه داده با PostgreSQL
- # پروژه back end
-جنگو جیست
- معماری جنگو
- ساخت پروژه در جنگو
- Django admin and superuser
-Django Templates
-Django Views
-Django URL Patterns
-Django Static Files
-What are Django Models
- Adding Models to Admin Site
- 
----------GIT
- مفاهیم زیر را تحقیق کنید
-
-version control system
-git
-ci
-در مورد command های زیر تحقیق کنید
-
-git init
-git push
-git pull
-git add
-git commit
-git remote add
-پروژه خود را روی گیت هاب قرار دهید
- --------- vps 
- Git Push and Pull
-
- طراحی سایت اولیه
- 
  
 
  
