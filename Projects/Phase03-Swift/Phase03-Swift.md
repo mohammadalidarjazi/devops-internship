@@ -3,21 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-    @font-face {
-        font-family: Shabnam;
-        src: url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.eot');
-        src: url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
-            url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.woff2') format('woff2'),
-            url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.woff') format('woff'),
-            url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.ttf') format('truetype');
-           font-weight: normal;
-    }
-    body{
-        text-align: right;
-        direction: rtl;
-        font-family: Shabnam;
-        }
-</style>
+    </style>
 </head>
 
 
