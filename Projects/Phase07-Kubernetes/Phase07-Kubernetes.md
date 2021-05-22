@@ -12,6 +12,7 @@
     - YAML
 1. در مورد کوبرنتیر و معماری آن
     - pod
+    - Lable
     - etcd
     - kube-apiserver
     - kube-scheduler
