@@ -6,11 +6,11 @@
 
 1. در مورد مفاهیم زیر تحقیق کنید
     - orchastration
-    - kubernetes
+    - Kubernetes Architecture
     - other container orchestration tools
     - microservice architecture
+    - YAML
 1. در مورد کوبرنتیر و معماری آن
-    -  kubernetes architecture
     - pod
     - etcd
     - kube-apiserver
@@ -30,7 +30,10 @@
      - service
      - replicationcontroller vs resplicaset
      - deployment
-     - networking in kubernetes
-     - storage
+     - statefullset
+     - daemonset
+     - basic Networking in kubernetes
      - volume
+     - configmap 
+     - secret
  1. پروژهی خود را روی کلاستر کوبرنتیز دپلوی کنید
